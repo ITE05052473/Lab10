@@ -1,4 +1,4 @@
-create:thread1.c
-	gcc thread1.c -o thread1 -lpthread
-run:thread1
-	./thread1
+create:thread2.c
+	gcc thread2.c -o thread2 -lpthread
+run:thread2
+	./thread2
